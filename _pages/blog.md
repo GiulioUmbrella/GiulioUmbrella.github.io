@@ -10,6 +10,7 @@ redirect_from:
 
 With some fellow computer scientists we created a blog about Computer Science, Cybersecurity, IT and more called [Binary Spritz](https://binaryspritz.com/). Here's the posts I wrote.
 
+* 15 02 2024 [Master method in action](https://binaryspritz.com/2025/02/15/master-method-in-action.html): a practical guide for determining the complexity of divide and conquer algorithms.
 
 * 02 Apr 2024 [Gitignore](https://binaryspritz.com/git/2024/04/02/gitignore.html): configuration of the gitignore file to simplify your life.
 
